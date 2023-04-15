@@ -55,7 +55,7 @@
 
              await poem();
              await getVersion();
-             log(`\n============ 当前版本：${scriptVersion}，最新版本：${scriptVersionLatest} ============`)
+             log(`\n============ 当前版本：1.0.0，最新版本：1.0.0 ============`)
              log(`\n=================== 共找到 ${hqAPPArr.length} 个账号 ===================`)
 
              if (debug) {
